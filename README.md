@@ -11,7 +11,7 @@ I won't ask you to try it, but if anyone has tried it, I would be very grateful 
 
 I have tested each of the ODs. If you leave it blank, you can’t open it. It may be because of a new account. OD activation takes time.。
 
-If you have any more you can post them in the issues Section
+If you know any more websites , you can post them in the issues Section
 
 Strikethrough means no longer valid, as a memorial
 
