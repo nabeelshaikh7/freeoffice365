@@ -30,9 +30,9 @@ Self-service platform, you can directly obtain account secrets
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | NO    |  N/A  |                                   |
-| A1                | https://a1_sc.a1od.workers.dev                        | a1.u365.org                      | 5TB | NO    | N/A   |                                   |
-| A1                | https://od.kbbldh.workers.dev                         | lbbldh.tk                        | 5TB | NO    |  N/A  |                                   |
+| A1                | [a1_free365.a1od.workers.dev](https://a1_free365.a1od.workers.dev)                   | a1.free365.org                   | 5TB | NO    |  N/A  |                                   |
+| A1                | [a1_sc.a1od.workers.dev](https://a1_sc.a1od.workers.dev)                        | a1.u365.org                      | 5TB | NO    | N/A   |                                   |
+| A1                | [od.kbbldh.workers.dev] (https://od.kbbldh.workers.dev  )                        | lbbldh.tk                        | 5TB | NO    |  N/A  |                                   |
 | A1                | https://azzzzzz.lx.workers.dev                        | moe.bartonclough.co.uk           | 1TB | YES    | YES  |                                   |
 | A1                | https://a1.lx.workers.dev                             | 2002000.xyz                      | 5TB | NO    | NO  |                                   |
 | A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | NO   | YES    |N/A    |                                   |
