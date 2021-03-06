@@ -30,18 +30,18 @@ Self-service platform, you can directly obtain account secrets
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    |    |                                   |
-| A1                | https://a1_sc.a1od.workers.dev                        | a1.u365.org                      | 5TB | X    |    |                                   |
-| A1                | https://od.kbbldh.workers.dev                         | lbbldh.tk                        | 5TB | X    |    |                                   |
-| A1                | https://azzzzzz.lx.workers.dev                        | moe.bartonclough.co.uk           | 1TB | O    | O  |                                   |
-| A1                | https://a1.lx.workers.dev                             | 2002000.xyz                      | 5TB | X    | X  |                                   |
-| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | X   | O    |    |                                   |
-| A1                | https://od.wulel.cn  https://od.wasonliu.workers.dev/ | f.odpan.cn                       | 5TB | X    |    |                                   |
-| A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | X   | O    | X  |                                   |
-| A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
-| A1                | ~~https://get.porta1.net/~~                               | usenode.net                      | 1TB | X    |    |                                   |
-| Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 5TB | X    | X  |                                   |
-| E3SY              | ~~https://freeoffice365.me/~~                              | office.jimschool.org             | 5TB | X    | X  |                                   |
+| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | NO    |  N/A  |                                   |
+| A1                | https://a1_sc.a1od.workers.dev                        | a1.u365.org                      | 5TB | NO    | N/A   |                                   |
+| A1                | https://od.kbbldh.workers.dev                         | lbbldh.tk                        | 5TB | NO    |  N/A  |                                   |
+| A1                | https://azzzzzz.lx.workers.dev                        | moe.bartonclough.co.uk           | 1TB | YES    | YES  |                                   |
+| A1                | https://a1.lx.workers.dev                             | 2002000.xyz                      | 5TB | NO    | NO  |                                   |
+| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | NO   | YES    |N/A    |                                   |
+| A1                | https://od.wulel.cn  https://od.wasonliu.workers.dev/ | f.odpan.cn                       | 5TB | NO    |  N/A  |                                   |
+| A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | NO   | YES  | NO  |                                   |
+| A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | NO   | YES    | NO  |                                   |
+| A1                | ~~https://get.porta1.net/~~                               | usenode.net                      | 1TB | NO    | N/A   |                                   |
+| Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 5TB | NO    |NO  |                                   |
+| E3SY              | ~~https://freeoffice365.me/~~                              | office.jimschool.org             | 5TB | NO    | NO  |                                   |
 
 ```X``` means I see ```Throttle.htm```. There is a high probability that the car has overturned,
 
