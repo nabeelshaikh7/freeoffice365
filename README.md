@@ -1,8 +1,8 @@
 # freeoffice365
 
-一Some free distribution of office365 sub-number sites.
+一Some free websites to get office365 .
 
-If someone has something that is not in the list, or the list is hung up, or someone helps me test the blank fields in the list, pull requests are welcome, and issues are also available
+If someone has something that is not in the list, or the list is hung up, or someone help me test the blank fields in the list, pull requests are welcome, and issues are also available
 
 It would be even better if there is a test in the table (Onedrive capacity / whether to open Email analysis / whether to pass AZ stu)!
 
@@ -13,7 +13,7 @@ I have tested each of the ODs. If you leave it blank, you can’t open it. It ma
 
 If you know any more websites , you can post them in the issues Section
 
-Strikethrough means no longer valid, as a memorial
+Strikethrough means no longer valid, kept as a memorial
 
 ===
 None of this category is open email
@@ -30,16 +30,16 @@ Self-service platform, you can directly obtain account secrets
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | [a1_free365.a1od.workers.dev](https://a1_free365.a1od.workers.dev)                   | a1.free365.org                   | 5TB | NO    |  N/A  |                                 |
+| A1                | [a1_free365.a1od.workers.dev](https://a1_free365.a1od.workers.dev)              | a1.free365.org                   | 5TB | NO    |  N/A  |                                 |
 | A1                | [a1_sc.a1od.workers.dev](https://a1_sc.a1od.workers.dev)                        | a1.u365.org                      | 5TB | NO    | N/A   |                                     |
 | A1                | [od.kbbldh.workers.dev](https://od.kbbldh.workers.dev  )                        | lbbldh.tk                        | 5TB | NO    |  N/A  |                                     |
-| A1                | [azzzzzz.lx.workers.dev](https://azzzzzz.lx.workers.dev)                        | moe.bartonclough.co.uk           | 1TB | YES    | YES  |                                     | 
-| A1                | [a1.lx.workers.dev](https://a1.lx.workers.dev )                             | 2002000.xyz                      | 5TB | NO    | NO  |                                           |
-| A1                | [office.zx.al](http://office.zx.al  )                                  | my365.ws  splogs.onmicrosoft.com | NO   | YES    |N/A    |                                             |
-| A1                | [od.wulel.cn](https://od.wulel.cn)  [od.wasonliu.workers.dev/](https://od.wasonliu.workers.dev/) | f.odpan.cn                       | 5TB | NO    |  N/A  |                                   |
-| A1                | [zcnp.azurewebsites.net](https://zcnp.azurewebsites.net)                        | niup.onmicrosoft.com             | NO   | YES  | NO  |                                       |
-| A1                | [zcmail.azurewebsites.net](https://zcmail.azurewebsites.net)                      | mailc.onmicrosoft.com            | NO   | YES    | NO  |                                   |
-| A1                | ~~https://get.porta1.net/~~                               | usenode.net                      | 1TB | NO    | N/A   |                                   |
+| A1                | [azzzzzz.lx.workers.dev](https://azzzzzz.lx.workers.dev)                        | moe.bartonclough.co.uk           | 1TB | YES   | YES   |                                     | 
+| A1                | [a1.lx.workers.dev](https://a1.lx.workers.dev )                                 | 2002000.xyz                      | 5TB | NO    | NO    |                                           |
+| A1                | [office.zx.al](http://office.zx.al  )                                           | my365.ws  splogs.onmicrosoft.com | NO   | YES  |N/A    |                                             |
+| A1                | [od.wulel.cn](https://od.wulel.cn)  [od.wasonliu.workers.dev/](https://od.wasonliu.workers.dev/) | f.odpan.cn                      | 5TB | NO    |  N/A  |                                   |
+| A1                | [zcnp.azurewebsites.net](https://zcnp.azurewebsites.net)                        | niup.onmicrosoft.com             | NO   | YES  | NO    |                                       |
+| A1                | [zcmail.azurewebsites.net](https://zcmail.azurewebsites.net)                     | mailc.onmicrosoft.com           | NO   | YES  | NO    |                                   |
+| A1                | ~~https://get.porta1.net/~~                               | usenode.net                                            | 1TB | NO    | N/A   |                                   |
 | Teams Exploratory | [od.malahu.tk](https://od.malahu.tk)  [malahu.n5.myws.ca/](https://malahu.n5.myws.ca/)     | malahu.tk                        | 5TB | NO    |NO  |                                   |
 | E3SY              | ~~https://freeoffice365.me/~~                              | office.jimschool.org             | 5TB | NO    | NO  |                                   |
 
