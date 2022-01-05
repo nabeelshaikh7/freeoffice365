@@ -2,18 +2,18 @@
 
 一Some free websites to get office365 .
 
-If someone has something that is not in the list, or the list is hung up, or someone help me test the blank fields in the list, pull requests are welcome, and issues are also available
+If someone has something that is not in the list, or the list is hung up, or someone wants to help me test the blank fields in the list, pull requests are welcome, and issues are also available.
 
 It would be even better if there is a test in the table (Onedrive capacity / whether to open Email analysis / whether to pass AZ stu)!
 
-AZ needs a mobile phone number to test. If you leave it blank, you don’t know.
+AZ needs a mobile phone number to test. If you leave it blank, it wont proceed.
 I won't ask you to try it, but if anyone has tried it, I would be very grateful if you can report back!
 
-I have tested each of the ODs. If you leave it blank, you can’t open it. It may be because of a new account. OD activation takes time.。
+I have tested each of the ODs. If you leave it blank, you can’t open it. It may be because of a new account. OD activation takes time.
 
-If you know any more websites , you can post them in the issues Section
+If you know any more websites, you can post them in the issues Section.
 
-Strikethrough means no longer valid, kept as a memorial
+Strikethrough means no longer valid, kept as a memorial.
 
 ===
 None of this category is open email
